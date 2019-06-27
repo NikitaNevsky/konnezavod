@@ -1,0 +1,119 @@
+@media screen and (max-width: 769px) {
+    .slider-item_content h2 {
+        font-size: 40px;
+    }
+
+    .slider-item_content p {
+        font-size: 18px;
+        margin-top: 15px;
+        width: 60%;
+        line-height: 20px;
+    }
+
+    .slider-item_content a {
+        margin-top: 30px;
+    }
+
+    .welcome {
+        flex-wrap: wrap;
+    }
+
+    .welcome img {
+        display: none;
+    }
+
+    .history-content_left {
+        margin-right: 20px;
+    }
+
+    .history-content p {
+        margin-top: 0;
+    }
+
+    .about-content_img {
+        max-height: 130px;
+    }
+
+    .sale-content_img {
+        min-width: 270px;
+        max-height: 200px;
+        margin-right: 0;
+    }
+
+    .name {
+        font-size: 20px;
+        margin-bottom: 0;
+    }
+
+    .params {
+        font-size: 14px;
+        margin-bottom: 0;
+        line-height: 20px;
+    }
+
+    .price {
+        margin-bottom: 10px;
+    }
+
+    .price img {
+        width: 20px;
+    }
+
+    .price span {
+        font-size: 18px;
+    }
+
+    .horse-point img {
+        width: 20px;
+    }
+
+    .horse-point span {
+        font-size: 18px;
+    }
+
+    .sale-content_body {
+        padding: 10px;
+    }
+
+    .excursion-item_text {
+        margin-bottom: 15px;
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .excursion-item_images {
+        width: 230px;
+        height: 230px;
+    }
+
+    .excursion-item.type1 .excursion-item_left {
+        margin-right: 20px;
+    }
+
+    .gallery-item {
+        height: 170px;
+    }
+} 
+
+
+@media screen and (max-width: 660px) {
+    .menu-mobile {
+        display: block;
+    }
+
+    .menu {
+        display: none;
+    }
+
+    .header-menu {
+        padding: 20px 0;
+    }
+
+    .point {
+        display: none;
+    }
+
+    .contacts-right {
+        display: none;
+    }
+} 

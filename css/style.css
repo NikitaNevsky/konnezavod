@@ -333,6 +333,16 @@ input:focus {
     color: #df370a;
 }
 
+.menu-mobile {
+    width: 30px;
+    cursor: pointer;
+    display: none;
+}
+
+.menu-mobile img {
+    width: 100%;
+}
+
 .social-list {
     display: flex;
 }
