@@ -339,6 +339,16 @@ input:focus {
     display: none;
 }
 
+.close-menu {
+    width: 30px;
+    cursor: pointer;
+    display: none;
+}
+
+.close-menu img {
+    width: 100%;
+}
+
 .menu-mobile img {
     width: 100%;
 }
