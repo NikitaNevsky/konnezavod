@@ -56,3 +56,13 @@ $(document).ready(function() {
 		}
 	});
 });
+
+$(document).ready(function() {
+	$('.menu-mobile').on('click', function () {
+    	$('.mobile-menu').addClass('d-block');
+  	});
+
+  	$('.close-menu').on('click', function () {
+    	$('.mobile-menu').removeClass('d-block');
+  	});
+});
